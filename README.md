@@ -1,4 +1,15 @@
-77-silex-starter
+77 Silex Starter
 ================
 
-Silex Starter Template loaded with jQuery and Bootstrap on the Frontend and Twig with Doctrine DBAL on the Backend.
+Silex Starter Template 
+
+### On The FrontEnd
+
+* jQuery
+* Bootstrap
+
+### On The Backend
+
+* Twig
+* Doctrine DBAL
+

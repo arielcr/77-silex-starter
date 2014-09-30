@@ -14,7 +14,7 @@ use Symfony\Component\HttpKernel\Exception\NotFoundHttpException;
 $app->get('/', function () use ($app) {
 
 	$params = array(
-			'dato' => 'valor'
+			'dato' => 'data'
 		);
 
 	return $app['twig']->render('index.html', $params);  

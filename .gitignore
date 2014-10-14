@@ -1,2 +1,4 @@
 composer.lock
 .DS_Store
+.idea/
+vendor/

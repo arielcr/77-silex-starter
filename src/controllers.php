@@ -21,7 +21,6 @@ $app->get('/', function () use ($app) {
 
 })->bind('home');
 
-
 /**
  * EJEMPLO POST 
  */

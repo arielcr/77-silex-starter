@@ -1,0 +1,7 @@
+default:
+    paths:
+        features: tests/acceptance
+    extensions:
+        Behat\MinkExtension\Extension:
+            goutte: ~
+            base_url: http://localhost/

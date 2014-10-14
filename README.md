@@ -12,4 +12,5 @@ Silex Starter Template
 
 * Twig
 * Doctrine DBAL
-
+* PHP Mailer
+* Simple Excel
